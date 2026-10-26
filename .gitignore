@@ -1,0 +1,11 @@
+# Всё личное живёт здесь и в git не попадает
+data/
+STATE.md
+STATE-archive.md
+config/search.json
+*.pdf
+__pycache__/
+*.pyc
+token.json
+credentials.json
+.env
